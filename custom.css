@@ -1,0 +1,52 @@
+body {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+div.section-break {
+    padding-top: 5em;
+}
+
+h3 {
+    padding-top: 1.1em;
+    padding-left: 1em;
+    padding-right: 1.5em;
+}
+
+h5 {
+    padding-top: 1.5em;
+    padding-left: 1.2em;
+    padding-right: 1.5em;
+}
+
+p {
+    text-align: justify;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+#photo-caption {
+    text-align: center;
+    font-size: small;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    padding-left: 1.5em;
+}
+
+br {
+    line-height: 0%;
+}
+
+#img-profile {
+    padding-top: 6em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+#img-logo {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
